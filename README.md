@@ -15,10 +15,10 @@ This is a simple ChatBot using Gemini Api and Streamlit to host a web Interface 
 # API
 
 here we using Google Gemini API 
-4. go for this website https://aistudio.google.com/ and create API key..
+4. go for this website https://aistudio.google.com/ and create API key.
 5. Paste it over the .env that means virtual environment.
 
 # Run
 
-To run the file use command 
+To run the file use command.
 6. streamlit run chat.py
