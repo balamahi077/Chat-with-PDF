@@ -4,21 +4,21 @@ This is a simple ChatBot using Gemini Api and Streamlit to host a web Interface 
 
 # Steps To Run the this File
 
-First we need to create a Virtual enverirment for every new Project.
-Command: python -m venv myenv
-Activate the virtual environment: myenv\Scripts\activate
-Then you need to install the packages and Library for that use this Command.
-pip install -r reruirements.txt
+- First we need to create a Virtual enverirment for every new Project.
+1. Command: python -m venv myenv
+2. Activate the virtual environment: myenv\Scripts\activate
+- Then you need to install the packages and Library for that use this Command.
+3. pip install -r reruirements.txt
 
-Note:The Google generative AI supports greaterthan python==3.9 so install ptyhon==3.10 or ++ .
+**Note**:The Google generative AI supports greaterthan python==3.9 so install ptyhon==3.10 or ++ .
 
-#API
+# API
 
 here we using Google Gemini API 
-go for this website https://aistudio.google.com/ and create API key..
-Paste it over the .env that means virtual environment.
+4. go for this website https://aistudio.google.com/ and create API key..
+5. Paste it over the .env that means virtual environment.
 
-#Run
+# Run
 
 To run the file use command 
-streamlit run chat.py
+6. streamlit run chat.py
